@@ -73,8 +73,7 @@ public:// public space
         }
     }
     bool isCool(){// method, that checks the "coolness" of the student
-        return _cool == "cool"  ? true : false;
-    }
+        return _cool == "cool" ;
     };
 
 
@@ -87,6 +86,6 @@ int main() {// main function
     cin >> student; // enter our object(overloaded operator)
     student.checkResults(student);//call method checkResults
     student.showLists();//output of all lists
-    return 0;//certainly
+    return 0;
     }
 
