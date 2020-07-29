@@ -1,4 +1,4 @@
-/*OOP C++ education template by Daniel Nilov
+
  There is the class Student with overloaded operators of input and output
  Also this Class includes a lot of methods, that you can modify and use in main() function */
 #include <iostream>//Libraries
