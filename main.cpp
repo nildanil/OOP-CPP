@@ -1,6 +1,5 @@
 
- There is the class Student with overloaded operators of input and output
- Also this Class includes a lot of methods, that you can modify and use in main() function */
+ /*ООП шпаргалка */
 #include <iostream>//Libraries
 #include <vector>
 
